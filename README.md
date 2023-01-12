@@ -1,0 +1,2 @@
+# uol_entretenimento_vertical_branco
+ uol_entretenimento
